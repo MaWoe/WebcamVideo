@@ -3,6 +3,6 @@ A set of Linux BASH scripts that periodically check a URL that you have configur
 
 ## How to use
 
-# Periodically invoke `bin/loadNewImageAndMakeVideo.sh <url> <imagesDir> <outFile>` via crontab
-# Start a screen and run `makeVideoLoop.sh` with the necessary args
+1. Periodically invoke `bin/loadNewImageAndMakeVideo.sh <url> <imagesDir> <outFile>` via crontab
+2. Start a screen and run `makeVideoLoop.sh` with the necessary args
 
